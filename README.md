@@ -18,4 +18,4 @@ git clone https://github.com/Aradin110/Aradin
 
 cd Aradin
 
-python2 Aradin110.py
+python Mohsin.py
