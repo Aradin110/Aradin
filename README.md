@@ -14,6 +14,8 @@ pip2 install mechanize
 
 pip2 install requests
 
+rm -rf Aradin
+
 git clone https://github.com/Aradin110/Aradin
 
 cd Aradin
